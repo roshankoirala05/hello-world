@@ -1,5 +1,5 @@
 # hello-world
 My first repository creation
 
-Hey folks out there, here comes the great Roshan into your world. Be afraid, very afraid. 
+Hey folks out there, here comes the great Roshan into the Git world. Be afraid, very afraid. 
 
